@@ -36,6 +36,7 @@ The GDP Data Explorer is a powerful data analysis tool designed to unlock insigh
 ### Jsonapp.py This file has the python code that filtered the json data
 ### JsonData   This file has the original data, but the none countries filterd out
 ### NonCountryData   This file has none countries data
+### Web-Images  This file shows the web appilcation screenshots
 
 # Installation
  1. Install dependencies from the requirements.txt file
