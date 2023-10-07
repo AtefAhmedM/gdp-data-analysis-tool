@@ -1,0 +1,164 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GDP Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            margin: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        select, input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-top: 20px;
+            text-align: left; /* Set all headings to left-align */
+        }
+
+        /* Style for the specific heading */
+        h2.left-align {
+            text-align: left;
+        }
+
+        p {
+            font-size: 18px; /* Increase text size */
+            text-align: center; /* Center all text */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #333;
+            color: #fff;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .gdp-plots {
+            margin-top: 20px;
+        }
+
+        img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GDP Data Visualization</h1>
+    </header>
+
+    <form method="POST" action="{% url 'index' %}">
+        {% csrf_token %}
+        <label for="country">Country:</label>
+        <select name="country" id="country">
+            <option value="">Select Country</option>
+            {% for country in known_countries %}
+                <option value="{{ country }}" {% if country == selected_country %}selected{% endif %}>{{ country }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="year">Year:</label>
+        <select name="year" id="year">
+            <option value="">Select Year</option>
+            {% for year in known_years %}
+                <option value="{{ year }}" {% if year == selected_year %}selected{% endif %}>{{ year }}</option>
+            {% endfor %}
+        </select>
+
+        <input type="submit" value="Apply Filter">
+    </form>
+
+    <section class="gdp-value">
+        <h2>GDP Value</h2>
+        {% if selected_country and selected_year %}
+            {% if gdp_value %}
+                <p>The GDP value for {{ selected_country }} in {{ selected_year }} is: {{ gdp_value|floatformat:2 }}$</p>
+            {% else %}
+                <p>No GDP value found for {{ selected_country }} in {{ selected_year }}</p>
+            {% endif %}
+        {% else %}
+            <p>Waiting selection</p>
+        {% endif %}
+    </section>
+
+    {% if filter == 'y' %}
+    <section class="filtered-data">
+        <h2>Filtered Data</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Country Name</th>
+                    <th>Year</th>
+                    <th>GDP Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in filtered_data %}
+                    <tr>
+                        <td>{{ item.country_name }}</td>
+                        <td>{{ item.year }}</td>
+                        <td>{{ item.gdp_value|floatformat:2 }}$</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+    {% endif %}
+
+    <section class="gdp-plots">
+        <!-- Apply the 'left-align' class to both headings -->
+        <h2 class="left-align">Top 15 GDP for 2022</h2>
+        <img src="{% static 'media/Figure_1.png' %}" alt="Top 15 GDP for 2022">
+
+        <h2 class="left-align">GDP Growth 2021-2022</h2>
+        <img src="{% static 'media/Figure_2.png' %}" alt="GDP Growth 2021-2022">
+    </section>
+</body>
+</html>
