@@ -1,0 +1,6950 @@
+[
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1968,
+        "value": 34715404211
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1970,
+        "value": 42768536551
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1972,
+        "value": 58935857749
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1974,
+        "value": 142000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1976,
+        "value": 196000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1978,
+        "value": 250000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1980,
+        "value": 460000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1982,
+        "value": 445000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1984,
+        "value": 426000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1986,
+        "value": 407000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1988,
+        "value": 425000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1990,
+        "value": 644000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1992,
+        "value": 474000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1994,
+        "value": 508000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1996,
+        "value": 614000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 1998,
+        "value": 649000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2000,
+        "value": 820000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2002,
+        "value": 808000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2004,
+        "value": 1060000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2006,
+        "value": 1550000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2008,
+        "value": 2260000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2010,
+        "value": 2330000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2012,
+        "value": 2800000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2014,
+        "value": 2910000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2016,
+        "value": 2540000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2018,
+        "value": 2840000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2020,
+        "value": 2530000000000
+    },
+    {
+        "country_name": "Arab World",
+        "country_code": "ARB",
+        "year": 2022,
+        "value": 3560000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 1990,
+        "value": 255000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 1992,
+        "value": 260000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 1994,
+        "value": 311000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 1996,
+        "value": 416000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 1998,
+        "value": 449000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2000,
+        "value": 429000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2002,
+        "value": 528000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2004,
+        "value": 763000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2006,
+        "value": 1000000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2008,
+        "value": 1530000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2010,
+        "value": 1320000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2012,
+        "value": 1360000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2014,
+        "value": 1460000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2016,
+        "value": 1320000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2018,
+        "value": 1650000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2020,
+        "value": 1670000000000
+    },
+    {
+        "country_name": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2022,
+        "value": 1950000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1960,
+        "value": 150000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1962,
+        "value": 164000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1964,
+        "value": 200000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1966,
+        "value": 214000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1968,
+        "value": 243000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1970,
+        "value": 287000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1972,
+        "value": 339000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1974,
+        "value": 606000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1976,
+        "value": 712000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1978,
+        "value": 915000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1980,
+        "value": 1330000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1982,
+        "value": 1420000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1984,
+        "value": 1460000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1986,
+        "value": 1470000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1988,
+        "value": 1560000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1990,
+        "value": 1860000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1992,
+        "value": 2160000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1994,
+        "value": 2500000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1996,
+        "value": 2790000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 1998,
+        "value": 2940000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2000,
+        "value": 3390000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2002,
+        "value": 3260000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2004,
+        "value": 4230000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2006,
+        "value": 5640000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2008,
+        "value": 7520000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2010,
+        "value": 8800000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2012,
+        "value": 10200000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2014,
+        "value": 10700000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2016,
+        "value": 10500000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2018,
+        "value": 11500000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2020,
+        "value": 10900000000000
+    },
+    {
+        "country_name": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2022,
+        "value": 14000000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1961,
+        "value": 155000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1963,
+        "value": 177000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1965,
+        "value": 226000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1967,
+        "value": 273000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1969,
+        "value": 347000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1971,
+        "value": 454000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1973,
+        "value": 742000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1975,
+        "value": 936000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1977,
+        "value": 1230000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1979,
+        "value": 1680000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1981,
+        "value": 2000000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1983,
+        "value": 2090000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1985,
+        "value": 2360000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1987,
+        "value": 3620000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1989,
+        "value": 4540000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1991,
+        "value": 5350000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1993,
+        "value": 6540000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1995,
+        "value": 8410000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1997,
+        "value": 7740000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 1999,
+        "value": 7740000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2001,
+        "value": 7790000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2003,
+        "value": 8700000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2005,
+        "value": 10400000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2007,
+        "value": 12300000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2009,
+        "value": 14600000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2011,
+        "value": 19800000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2013,
+        "value": 21400000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2015,
+        "value": 22000000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2017,
+        "value": 24300000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2019,
+        "value": 27000000000000
+    },
+    {
+        "country_name": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2021,
+        "value": 31100000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1960,
+        "value": 81326348986
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1962,
+        "value": 65380076110
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1964,
+        "value": 81742063327
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1966,
+        "value": 104000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1968,
+        "value": 102000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1970,
+        "value": 127000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1972,
+        "value": 155000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1974,
+        "value": 221000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1976,
+        "value": 253000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1978,
+        "value": 283000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1980,
+        "value": 378000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1982,
+        "value": 424000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1984,
+        "value": 481000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1986,
+        "value": 525000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1988,
+        "value": 575000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1990,
+        "value": 667000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1992,
+        "value": 811000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1994,
+        "value": 1070000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1996,
+        "value": 1520000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 1998,
+        "value": 1430000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2000,
+        "value": 1730000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2002,
+        "value": 2040000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2004,
+        "value": 2680000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2006,
+        "value": 3740000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2008,
+        "value": 5980000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2010,
+        "value": 7890000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2012,
+        "value": 10800000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2014,
+        "value": 12800000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2016,
+        "value": 13600000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2018,
+        "value": 16600000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2020,
+        "value": 17500000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2022,
+        "value": 21200000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1961,
+        "value": 71506835328
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1963,
+        "value": 70737487658
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1965,
+        "value": 95037675059
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1967,
+        "value": 101000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1969,
+        "value": 115000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1971,
+        "value": 137000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1973,
+        "value": 195000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1975,
+        "value": 248000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1977,
+        "value": 291000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1979,
+        "value": 327000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1981,
+        "value": 403000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1983,
+        "value": 443000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1985,
+        "value": 526000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1987,
+        "value": 518000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1989,
+        "value": 622000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1991,
+        "value": 723000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1993,
+        "value": 889000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1995,
+        "value": 1320000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1997,
+        "value": 1570000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 1999,
+        "value": 1570000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2001,
+        "value": 1840000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2003,
+        "value": 2310000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2005,
+        "value": 3100000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2007,
+        "value": 4720000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2009,
+        "value": 6480000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2011,
+        "value": 9630000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2013,
+        "value": 11900000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2015,
+        "value": 13300000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2017,
+        "value": 14900000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2019,
+        "value": 17200000000000
+    },
+    {
+        "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2021,
+        "value": 20800000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1960,
+        "value": 245000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1962,
+        "value": 299000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1964,
+        "value": 373000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1966,
+        "value": 445000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1968,
+        "value": 519000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1970,
+        "value": 643000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1972,
+        "value": 880000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1974,
+        "value": 1300000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1976,
+        "value": 1570000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1978,
+        "value": 2180000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1980,
+        "value": 2960000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1982,
+        "value": 2490000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1984,
+        "value": 2330000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1986,
+        "value": 3360000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1988,
+        "value": 4570000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1990,
+        "value": 5880000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1992,
+        "value": 6750000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1994,
+        "value": 6520000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1996,
+        "value": 7600000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 1998,
+        "value": 7150000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2000,
+        "value": 6500000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2002,
+        "value": 7200000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2004,
+        "value": 10200000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2006,
+        "value": 11200000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2008,
+        "value": 14200000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2010,
+        "value": 12600000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2012,
+        "value": 12600000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2014,
+        "value": 13500000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2016,
+        "value": 12000000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2018,
+        "value": 13700000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2020,
+        "value": 13100000000000
+    },
+    {
+        "country_name": "Euro area",
+        "country_code": "EMU",
+        "year": 2022,
+        "value": 14000000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1967,
+        "value": 796000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1969,
+        "value": 921000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1971,
+        "value": 1150000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1973,
+        "value": 1750000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1975,
+        "value": 2310000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1977,
+        "value": 2720000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1979,
+        "value": 4060000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1981,
+        "value": 4090000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1983,
+        "value": 3830000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1985,
+        "value": 3810000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1987,
+        "value": 6420000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1989,
+        "value": 7240000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1991,
+        "value": 9140000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1993,
+        "value": 9000000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1995,
+        "value": 10900000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1997,
+        "value": 10500000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 1999,
+        "value": 10700000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2001,
+        "value": 10200000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2003,
+        "value": 13500000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2005,
+        "value": 16800000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2007,
+        "value": 21200000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2009,
+        "value": 20500000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2011,
+        "value": 23300000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2013,
+        "value": 23500000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2015,
+        "value": 20500000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2017,
+        "value": 21700000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2019,
+        "value": 22900000000000
+    },
+    {
+        "country_name": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2021,
+        "value": 25200000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 1988,
+        "value": 862000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 1990,
+        "value": 893000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 1992,
+        "value": 799000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 1994,
+        "value": 674000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 1996,
+        "value": 729000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 1998,
+        "value": 705000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2000,
+        "value": 663000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2002,
+        "value": 751000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2004,
+        "value": 1260000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2006,
+        "value": 1950000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2008,
+        "value": 3110000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2010,
+        "value": 2950000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2012,
+        "value": 3910000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2014,
+        "value": 3850000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2016,
+        "value": 2780000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2018,
+        "value": 3180000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2020,
+        "value": 2990000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2022,
+        "value": 4120000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 1989,
+        "value": 959000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 1991,
+        "value": 1010000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 1993,
+        "value": 929000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 1995,
+        "value": 924000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 1997,
+        "value": 980000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 1999,
+        "value": 822000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2001,
+        "value": 910000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2003,
+        "value": 1260000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2005,
+        "value": 2040000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2007,
+        "value": 3170000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2009,
+        "value": 3110000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2011,
+        "value": 4450000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2013,
+        "value": 4920000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2015,
+        "value": 3630000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2017,
+        "value": 3910000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2019,
+        "value": 4160000000000
+    },
+    {
+        "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2021,
+        "value": 4620000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1970,
+        "value": 726000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1972,
+        "value": 990000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1974,
+        "value": 1450000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1976,
+        "value": 1770000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1978,
+        "value": 2440000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1980,
+        "value": 3300000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1982,
+        "value": 2780000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1984,
+        "value": 2600000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1986,
+        "value": 3740000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1988,
+        "value": 5080000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1990,
+        "value": 6500000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1992,
+        "value": 7410000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1994,
+        "value": 7160000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1996,
+        "value": 8430000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 1998,
+        "value": 7970000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2000,
+        "value": 7280000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2002,
+        "value": 8080000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2004,
+        "value": 11400000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2006,
+        "value": 12700000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2008,
+        "value": 16300000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2010,
+        "value": 14600000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2012,
+        "value": 14600000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2014,
+        "value": 15700000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2016,
+        "value": 13900000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2018,
+        "value": 16000000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2020,
+        "value": 15400000000000
+    },
+    {
+        "country_name": "European Union",
+        "country_code": "EUU",
+        "year": 2022,
+        "value": 16600000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1968,
+        "value": 47553203041
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1970,
+        "value": 64752692686
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1972,
+        "value": 75151806554
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1974,
+        "value": 137000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1976,
+        "value": 181000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1978,
+        "value": 222000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1980,
+        "value": 349000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1982,
+        "value": 466000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1984,
+        "value": 359000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1986,
+        "value": 355000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1988,
+        "value": 384000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1990,
+        "value": 551000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1992,
+        "value": 348000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1994,
+        "value": 314000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1996,
+        "value": 374000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 1998,
+        "value": 420000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2000,
+        "value": 526000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2002,
+        "value": 515000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2004,
+        "value": 681000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2006,
+        "value": 1060000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2008,
+        "value": 1640000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2010,
+        "value": 1790000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2012,
+        "value": 1890000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2014,
+        "value": 2080000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2016,
+        "value": 1550000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2018,
+        "value": 1730000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2020,
+        "value": 1660000000000
+    },
+    {
+        "country_name": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "year": 2022,
+        "value": 1890000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1960,
+        "value": 1070000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1962,
+        "value": 1220000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1964,
+        "value": 1440000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1966,
+        "value": 1710000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1968,
+        "value": 1990000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1970,
+        "value": 2390000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1972,
+        "value": 3080000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1974,
+        "value": 4210000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1976,
+        "value": 5110000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1978,
+        "value": 6940000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1980,
+        "value": 8960000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1982,
+        "value": 9010000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1984,
+        "value": 9710000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1986,
+        "value": 12400000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1988,
+        "value": 16200000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1990,
+        "value": 19000000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1992,
+        "value": 21600000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1994,
+        "value": 23400000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1996,
+        "value": 26200000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 1998,
+        "value": 25900000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2000,
+        "value": 27800000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2002,
+        "value": 28700000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2004,
+        "value": 35800000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2006,
+        "value": 40000000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2008,
+        "value": 46600000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2010,
+        "value": 45800000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2012,
+        "value": 49400000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2014,
+        "value": 51100000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2016,
+        "value": 49300000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2018,
+        "value": 54800000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2020,
+        "value": 53900000000000
+    },
+    {
+        "country_name": "High income",
+        "country_code": "HIC",
+        "year": 2022,
+        "value": 61500000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1960,
+        "value": 313000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1962,
+        "value": 317000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1964,
+        "value": 386000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1966,
+        "value": 437000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1968,
+        "value": 473000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1970,
+        "value": 575000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1972,
+        "value": 706000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1974,
+        "value": 1150000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1976,
+        "value": 1350000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1978,
+        "value": 1690000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1980,
+        "value": 2330000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1982,
+        "value": 2490000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1984,
+        "value": 2550000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1986,
+        "value": 2760000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1988,
+        "value": 3040000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1990,
+        "value": 3640000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1992,
+        "value": 3700000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1994,
+        "value": 4330000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1996,
+        "value": 5350000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 1998,
+        "value": 5510000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2000,
+        "value": 5840000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2002,
+        "value": 6000000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2004,
+        "value": 8040000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2006,
+        "value": 11400000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2008,
+        "value": 17000000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2010,
+        "value": 20000000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2012,
+        "value": 25200000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2014,
+        "value": 27500000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2016,
+        "value": 26000000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2018,
+        "value": 30500000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2020,
+        "value": 30000000000000
+    },
+    {
+        "country_name": "IBRD only",
+        "country_code": "IBD",
+        "year": 2022,
+        "value": 37600000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1960,
+        "value": 351000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1962,
+        "value": 362000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1964,
+        "value": 434000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1966,
+        "value": 496000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1968,
+        "value": 536000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1970,
+        "value": 658000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1972,
+        "value": 791000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1974,
+        "value": 1280000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1976,
+        "value": 1510000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1978,
+        "value": 1890000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1980,
+        "value": 2610000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1982,
+        "value": 2890000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1984,
+        "value": 2850000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1986,
+        "value": 3060000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1988,
+        "value": 3360000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1990,
+        "value": 4020000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1992,
+        "value": 4060000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1994,
+        "value": 4690000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1996,
+        "value": 5810000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 1998,
+        "value": 5990000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2000,
+        "value": 6390000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2002,
+        "value": 6600000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2004,
+        "value": 8820000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2006,
+        "value": 12500000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2008,
+        "value": 18500000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2010,
+        "value": 21800000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2012,
+        "value": 27100000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2014,
+        "value": 29700000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2016,
+        "value": 28200000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2018,
+        "value": 32900000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2020,
+        "value": 32500000000000
+    },
+    {
+        "country_name": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2022,
+        "value": 40400000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1960,
+        "value": 27105173973
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1962,
+        "value": 30520380944
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1964,
+        "value": 32277415321
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1966,
+        "value": 40278560201
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1968,
+        "value": 42761290418
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1970,
+        "value": 49639453169
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1972,
+        "value": 52164084219
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1974,
+        "value": 80855093444
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1976,
+        "value": 91502332692
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1978,
+        "value": 121000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1980,
+        "value": 150000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1982,
+        "value": 153000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1984,
+        "value": 151000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1986,
+        "value": 176000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1988,
+        "value": 190000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1990,
+        "value": 233000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1992,
+        "value": 214000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1994,
+        "value": 219000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1996,
+        "value": 284000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 1998,
+        "value": 312000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2000,
+        "value": 347000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2002,
+        "value": 370000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2004,
+        "value": 469000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2006,
+        "value": 621000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2008,
+        "value": 882000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2010,
+        "value": 1040000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2012,
+        "value": 966000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2014,
+        "value": 1120000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2016,
+        "value": 1210000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2018,
+        "value": 1320000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2020,
+        "value": 1410000000000
+    },
+    {
+        "country_name": "IDA only",
+        "country_code": "IDX",
+        "year": 2022,
+        "value": 1640000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1961,
+        "value": 40400043936
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1963,
+        "value": 48370130959
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1965,
+        "value": 53468536046
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1967,
+        "value": 58466985790
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1969,
+        "value": 68985085299
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1971,
+        "value": 80333811804
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1973,
+        "value": 97248051627
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1975,
+        "value": 155000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1977,
+        "value": 175000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1979,
+        "value": 231000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1981,
+        "value": 403000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1983,
+        "value": 320000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1985,
+        "value": 303000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1987,
+        "value": 331000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1989,
+        "value": 332000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1991,
+        "value": 398000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1993,
+        "value": 353000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1995,
+        "value": 405000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1997,
+        "value": 475000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 1999,
+        "value": 499000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2001,
+        "value": 556000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2003,
+        "value": 665000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2005,
+        "value": 912000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2007,
+        "value": 1270000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2009,
+        "value": 1520000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2011,
+        "value": 1780000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2013,
+        "value": 2040000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2015,
+        "value": 2150000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2017,
+        "value": 2290000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2019,
+        "value": 2460000000000
+    },
+    {
+        "country_name": "IDA total",
+        "country_code": "IDA",
+        "year": 2021,
+        "value": 2630000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1960,
+        "value": 188000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1962,
+        "value": 178000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1964,
+        "value": 213000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1966,
+        "value": 267000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1968,
+        "value": 273000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1970,
+        "value": 346000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1972,
+        "value": 442000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1974,
+        "value": 671000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1976,
+        "value": 795000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1978,
+        "value": 960000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1980,
+        "value": 1310000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1982,
+        "value": 1390000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1984,
+        "value": 1340000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1986,
+        "value": 1540000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1988,
+        "value": 1770000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1990,
+        "value": 2040000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1992,
+        "value": 2080000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1994,
+        "value": 2460000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1996,
+        "value": 3330000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 1998,
+        "value": 3360000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2000,
+        "value": 3410000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2002,
+        "value": 3740000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2004,
+        "value": 5120000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2006,
+        "value": 7450000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2008,
+        "value": 11700000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2010,
+        "value": 13600000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2012,
+        "value": 17700000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2014,
+        "value": 19800000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2016,
+        "value": 18600000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2018,
+        "value": 22600000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2020,
+        "value": 22500000000000
+    },
+    {
+        "country_name": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2022,
+        "value": 28100000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1961,
+        "value": 89675894613
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1963,
+        "value": 99825291121
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1965,
+        "value": 119000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1967,
+        "value": 134000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1969,
+        "value": 161000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1971,
+        "value": 195000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1973,
+        "value": 292000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1975,
+        "value": 398000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1977,
+        "value": 479000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1979,
+        "value": 644000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1981,
+        "value": 894000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1983,
+        "value": 726000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1985,
+        "value": 756000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1987,
+        "value": 821000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1989,
+        "value": 995000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1991,
+        "value": 1260000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1993,
+        "value": 1580000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1995,
+        "value": 1920000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1997,
+        "value": 2280000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 1999,
+        "value": 2080000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2001,
+        "value": 2240000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2003,
+        "value": 2060000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2005,
+        "value": 2860000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2007,
+        "value": 3950000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2009,
+        "value": 4310000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2011,
+        "value": 6090000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2013,
+        "value": 6310000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2015,
+        "value": 5380000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2017,
+        "value": 5830000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2019,
+        "value": 5620000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2021,
+        "value": 5510000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1960,
+        "value": 68172083255
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1962,
+        "value": 77592630260
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1964,
+        "value": 89672295454
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1966,
+        "value": 107000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1968,
+        "value": 118000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1970,
+        "value": 143000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1972,
+        "value": 181000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1974,
+        "value": 318000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1976,
+        "value": 373000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1978,
+        "value": 491000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1980,
+        "value": 653000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1982,
+        "value": 689000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1984,
+        "value": 639000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1986,
+        "value": 638000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1988,
+        "value": 760000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1990,
+        "value": 1040000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1992,
+        "value": 1180000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1994,
+        "value": 1590000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1996,
+        "value": 1830000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 1998,
+        "value": 2010000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2000,
+        "value": 1970000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2002,
+        "value": 1720000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2004,
+        "value": 2010000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2006,
+        "value": 2840000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2008,
+        "value": 3880000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2010,
+        "value": 4510000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2012,
+        "value": 5240000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2014,
+        "value": 5410000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2016,
+        "value": 4470000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2018,
+        "value": 4840000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2020,
+        "value": 4020000000000
+    },
+    {
+        "country_name": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2022,
+        "value": 5300000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1961,
+        "value": 84250590001
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1963,
+        "value": 93477829840
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1965,
+        "value": 112000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1967,
+        "value": 125000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1969,
+        "value": 150000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1971,
+        "value": 181000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1973,
+        "value": 273000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1975,
+        "value": 374000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1977,
+        "value": 451000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1979,
+        "value": 607000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1981,
+        "value": 852000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1983,
+        "value": 681000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1985,
+        "value": 706000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1987,
+        "value": 764000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1989,
+        "value": 930000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1991,
+        "value": 1190000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1993,
+        "value": 1510000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1995,
+        "value": 1830000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1997,
+        "value": 2190000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 1999,
+        "value": 1970000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2001,
+        "value": 2120000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2003,
+        "value": 1920000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2005,
+        "value": 2710000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2007,
+        "value": 3770000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2009,
+        "value": 4130000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2011,
+        "value": 5890000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2013,
+        "value": 6100000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2015,
+        "value": 5150000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2017,
+        "value": 5590000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2019,
+        "value": 5370000000000
+    },
+    {
+        "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2021,
+        "value": 5240000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1980,
+        "value": 114000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1982,
+        "value": 113000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1984,
+        "value": 107000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1986,
+        "value": 121000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1988,
+        "value": 146000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1990,
+        "value": 183000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1992,
+        "value": 156000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1994,
+        "value": 136000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1996,
+        "value": 174000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 1998,
+        "value": 186000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2000,
+        "value": 219000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2002,
+        "value": 233000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2004,
+        "value": 301000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2006,
+        "value": 412000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2008,
+        "value": 604000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2010,
+        "value": 690000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2012,
+        "value": 842000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2014,
+        "value": 986000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2016,
+        "value": 991000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2018,
+        "value": 1090000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2020,
+        "value": 1160000000000
+    },
+    {
+        "country_name": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2022,
+        "value": 1420000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1960,
+        "value": 328000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1962,
+        "value": 334000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1964,
+        "value": 405000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1966,
+        "value": 464000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1968,
+        "value": 502000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1970,
+        "value": 616000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1972,
+        "value": 742000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1974,
+        "value": 1200000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1976,
+        "value": 1430000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1978,
+        "value": 1780000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1980,
+        "value": 2430000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1982,
+        "value": 2690000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1984,
+        "value": 2680000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1986,
+        "value": 2890000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1988,
+        "value": 3180000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1990,
+        "value": 3830000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1992,
+        "value": 3820000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1994,
+        "value": 4410000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1996,
+        "value": 5430000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 1998,
+        "value": 5570000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2000,
+        "value": 5960000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2002,
+        "value": 6160000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2004,
+        "value": 8240000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2006,
+        "value": 11600000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2008,
+        "value": 17200000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2010,
+        "value": 20500000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2012,
+        "value": 25700000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2014,
+        "value": 28100000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2016,
+        "value": 26900000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2018,
+        "value": 31400000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2020,
+        "value": 31000000000000
+    },
+    {
+        "country_name": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2022,
+        "value": 38700000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1960,
+        "value": 88132926256
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1962,
+        "value": 94753315348
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1964,
+        "value": 118000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1966,
+        "value": 118000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1968,
+        "value": 134000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1970,
+        "value": 165000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1972,
+        "value": 188000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1974,
+        "value": 301000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1976,
+        "value": 367000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1978,
+        "value": 461000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1980,
+        "value": 643000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1982,
+        "value": 797000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1984,
+        "value": 781000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1986,
+        "value": 902000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1988,
+        "value": 897000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1990,
+        "value": 948000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1992,
+        "value": 923000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1994,
+        "value": 953000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1996,
+        "value": 1210000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 1998,
+        "value": 1250000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2000,
+        "value": 1360000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2002,
+        "value": 1470000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2004,
+        "value": 1960000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2006,
+        "value": 2690000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2008,
+        "value": 3740000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2010,
+        "value": 4530000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2012,
+        "value": 5460000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2014,
+        "value": 5870000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2016,
+        "value": 6000000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2018,
+        "value": 6610000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2020,
+        "value": 6620000000000
+    },
+    {
+        "country_name": "Lower middle income",
+        "country_code": "LMC",
+        "year": 2022,
+        "value": 8110000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1968,
+        "value": 44717172686
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1970,
+        "value": 55907595961
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1972,
+        "value": 80153352071
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1974,
+        "value": 203000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1976,
+        "value": 283000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1978,
+        "value": 352000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1980,
+        "value": 598000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1982,
+        "value": 618000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1984,
+        "value": 638000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1986,
+        "value": 672000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1988,
+        "value": 587000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1990,
+        "value": 806000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1992,
+        "value": 616000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1994,
+        "value": 660000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1996,
+        "value": 840000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 1998,
+        "value": 869000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2000,
+        "value": 1050000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2002,
+        "value": 1040000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2004,
+        "value": 1370000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2006,
+        "value": 1920000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2008,
+        "value": 2830000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2010,
+        "value": 2980000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2012,
+        "value": 3640000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2014,
+        "value": 3600000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2016,
+        "value": 3210000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2018,
+        "value": 3520000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2020,
+        "value": 3160000000000
+    },
+    {
+        "country_name": "Middle East & North Africa",
+        "country_code": "MEA",
+        "year": 2022,
+        "value": 4410000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1966,
+        "value": 24818305647
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1968,
+        "value": 29559642720
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1970,
+        "value": 37041045403
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1972,
+        "value": 50671066926
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1974,
+        "value": 103000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1976,
+        "value": 147000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1978,
+        "value": 183000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1980,
+        "value": 274000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1982,
+        "value": 306000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1984,
+        "value": 364000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1986,
+        "value": 447000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1988,
+        "value": 358000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1990,
+        "value": 507000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1992,
+        "value": 289000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1994,
+        "value": 319000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1996,
+        "value": 428000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 1998,
+        "value": 466000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2000,
+        "value": 536000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2002,
+        "value": 528000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2004,
+        "value": 686000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2006,
+        "value": 942000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2008,
+        "value": 1420000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2010,
+        "value": 1590000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2012,
+        "value": 1760000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2014,
+        "value": 1600000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2016,
+        "value": 1480000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2018,
+        "value": 1400000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2020,
+        "value": 1280000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "year": 2022,
+        "value": 1680000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1966,
+        "value": 24596781060
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1968,
+        "value": 29295797648
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1970,
+        "value": 36710422418
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1972,
+        "value": 50218784351
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1974,
+        "value": 102000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1976,
+        "value": 146000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1978,
+        "value": 182000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1980,
+        "value": 271000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1982,
+        "value": 304000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1984,
+        "value": 361000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1986,
+        "value": 443000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1988,
+        "value": 355000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1990,
+        "value": 503000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1992,
+        "value": 287000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1994,
+        "value": 316000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1996,
+        "value": 424000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 1998,
+        "value": 462000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2000,
+        "value": 532000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2002,
+        "value": 525000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2004,
+        "value": 681000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2006,
+        "value": 937000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2008,
+        "value": 1410000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2010,
+        "value": 1580000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2012,
+        "value": 1750000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2014,
+        "value": 1590000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2016,
+        "value": 1460000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2018,
+        "value": 1380000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2020,
+        "value": 1270000000000
+    },
+    {
+        "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "year": 2022,
+        "value": 1660000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1961,
+        "value": 313000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1963,
+        "value": 343000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1965,
+        "value": 431000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1967,
+        "value": 458000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1969,
+        "value": 541000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1971,
+        "value": 639000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1973,
+        "value": 915000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1975,
+        "value": 1280000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1977,
+        "value": 1550000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1979,
+        "value": 1990000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1981,
+        "value": 2650000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1983,
+        "value": 2520000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1985,
+        "value": 2700000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1987,
+        "value": 2900000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1989,
+        "value": 3220000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1991,
+        "value": 3550000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1993,
+        "value": 3970000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1995,
+        "value": 4830000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1997,
+        "value": 5600000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 1999,
+        "value": 5300000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2001,
+        "value": 5830000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2003,
+        "value": 6730000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2005,
+        "value": 9510000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2007,
+        "value": 14000000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2009,
+        "value": 16300000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2011,
+        "value": 23700000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2013,
+        "value": 26800000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2015,
+        "value": 26200000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2017,
+        "value": 29100000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2019,
+        "value": 31700000000000
+    },
+    {
+        "country_name": "Middle income",
+        "country_code": "MIC",
+        "year": 2021,
+        "value": 36100000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1960,
+        "value": 584000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1962,
+        "value": 647000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1964,
+        "value": 735000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1966,
+        "value": 876000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1968,
+        "value": 1010000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1970,
+        "value": 1160000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1972,
+        "value": 1390000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1974,
+        "value": 1710000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1976,
+        "value": 2080000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1978,
+        "value": 2570000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1980,
+        "value": 3130000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1982,
+        "value": 3660000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1984,
+        "value": 4400000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1986,
+        "value": 4960000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1988,
+        "value": 5750000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1990,
+        "value": 6560000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1992,
+        "value": 7120000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1994,
+        "value": 7870000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1996,
+        "value": 8710000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 1998,
+        "value": 9700000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2000,
+        "value": 11000000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2002,
+        "value": 11700000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2004,
+        "value": 13200000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2006,
+        "value": 15100000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2008,
+        "value": 16300000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2010,
+        "value": 16700000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2012,
+        "value": 18100000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2014,
+        "value": 19400000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2016,
+        "value": 20200000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2018,
+        "value": 22300000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2020,
+        "value": 22700000000000
+    },
+    {
+        "country_name": "North America",
+        "country_code": "NAC",
+        "year": 2022,
+        "value": 27600000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1960,
+        "value": 1070000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1962,
+        "value": 1230000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1964,
+        "value": 1450000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1966,
+        "value": 1720000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1968,
+        "value": 2010000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1970,
+        "value": 2400000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1972,
+        "value": 3090000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1974,
+        "value": 4180000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1976,
+        "value": 5080000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1978,
+        "value": 6890000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1980,
+        "value": 8840000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1982,
+        "value": 8870000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1984,
+        "value": 9580000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1986,
+        "value": 12200000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1988,
+        "value": 16000000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1990,
+        "value": 18800000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1992,
+        "value": 21400000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1994,
+        "value": 23300000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1996,
+        "value": 25900000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 1998,
+        "value": 25700000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2000,
+        "value": 27600000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2002,
+        "value": 28600000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2004,
+        "value": 35600000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2006,
+        "value": 39700000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2008,
+        "value": 46100000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2010,
+        "value": 45300000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2012,
+        "value": 48600000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2014,
+        "value": 50300000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2016,
+        "value": 48300000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2018,
+        "value": 53400000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2020,
+        "value": 52500000000000
+    },
+    {
+        "country_name": "OECD members",
+        "country_code": "OED",
+        "year": 2022,
+        "value": 59600000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1960,
+        "value": 1050000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1962,
+        "value": 1200000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1964,
+        "value": 1410000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1966,
+        "value": 1680000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1968,
+        "value": 1950000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1970,
+        "value": 2340000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1972,
+        "value": 3010000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1974,
+        "value": 4060000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1976,
+        "value": 4940000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1978,
+        "value": 6710000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1980,
+        "value": 8540000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1982,
+        "value": 8600000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1984,
+        "value": 9330000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1986,
+        "value": 12000000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1988,
+        "value": 15700000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1990,
+        "value": 18400000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1992,
+        "value": 20800000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1994,
+        "value": 22500000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1996,
+        "value": 25100000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 1998,
+        "value": 24700000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2000,
+        "value": 26400000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2002,
+        "value": 27300000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2004,
+        "value": 34000000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2006,
+        "value": 37600000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2008,
+        "value": 43500000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2010,
+        "value": 42700000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2012,
+        "value": 45800000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2014,
+        "value": 47100000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2016,
+        "value": 45600000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2018,
+        "value": 50400000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2020,
+        "value": 49700000000000
+    },
+    {
+        "country_name": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2022,
+        "value": 56000000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1961,
+        "value": 21438148383
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1963,
+        "value": 27350179504
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1965,
+        "value": 28693503052
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1967,
+        "value": 29711210460
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1969,
+        "value": 35545604544
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1971,
+        "value": 42419967120
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1973,
+        "value": 60920765155
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1975,
+        "value": 98342389194
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1977,
+        "value": 128000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1979,
+        "value": 181000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1981,
+        "value": 311000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1983,
+        "value": 233000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1985,
+        "value": 215000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1987,
+        "value": 227000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1989,
+        "value": 241000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1991,
+        "value": 211000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1993,
+        "value": 153000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1995,
+        "value": 175000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1997,
+        "value": 214000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 1999,
+        "value": 241000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2001,
+        "value": 266000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2003,
+        "value": 332000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2005,
+        "value": 517000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2007,
+        "value": 790000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2009,
+        "value": 902000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2011,
+        "value": 1240000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2013,
+        "value": 1470000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2015,
+        "value": 1330000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2017,
+        "value": 1290000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2019,
+        "value": 1420000000000
+    },
+    {
+        "country_name": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2021,
+        "value": 1430000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1960,
+        "value": 47156704039
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1962,
+        "value": 53705580293
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1964,
+        "value": 69158968714
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1966,
+        "value": 62456580600
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1968,
+        "value": 72018446517
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1970,
+        "value": 85711844745
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1972,
+        "value": 91653327298
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1974,
+        "value": 127000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1976,
+        "value": 133000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1978,
+        "value": 175000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1980,
+        "value": 236000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1982,
+        "value": 259000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1984,
+        "value": 273000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1986,
+        "value": 314000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1988,
+        "value": 375000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1990,
+        "value": 407000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1992,
+        "value": 385000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1994,
+        "value": 432000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1996,
+        "value": 525000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 1998,
+        "value": 558000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2000,
+        "value": 630000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2002,
+        "value": 677000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2004,
+        "value": 917000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2006,
+        "value": 1200000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2008,
+        "value": 1530000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2010,
+        "value": 2060000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2012,
+        "value": 2300000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2014,
+        "value": 2590000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2016,
+        "value": 3010000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2018,
+        "value": 3530000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2020,
+        "value": 3490000000000
+    },
+    {
+        "country_name": "South Asia",
+        "country_code": "SAS",
+        "year": 2022,
+        "value": 4360000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1961,
+        "value": 50316837320
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1963,
+        "value": 60408326895
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1965,
+        "value": 74274468930
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1967,
+        "value": 68712964033
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1969,
+        "value": 79171992804
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1971,
+        "value": 91169238617
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1973,
+        "value": 105000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1975,
+        "value": 136000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1977,
+        "value": 154000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1979,
+        "value": 196000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1981,
+        "value": 250000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1983,
+        "value": 274000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1985,
+        "value": 297000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1987,
+        "value": 349000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1989,
+        "value": 378000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1991,
+        "value": 362000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1993,
+        "value": 381000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1995,
+        "value": 480000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1997,
+        "value": 551000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 1999,
+        "value": 598000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2001,
+        "value": 646000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2003,
+        "value": 791000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2005,
+        "value": 1050000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2007,
+        "value": 1500000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2009,
+        "value": 1680000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2011,
+        "value": 2280000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2013,
+        "value": 2360000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2015,
+        "value": 2700000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2017,
+        "value": 3430000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2019,
+        "value": 3660000000000
+    },
+    {
+        "country_name": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2021,
+        "value": 4060000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1960,
+        "value": 31038651925
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1962,
+        "value": 34924550100
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1964,
+        "value": 39238590135
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1966,
+        "value": 47114238411
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1968,
+        "value": 50124977708
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1970,
+        "value": 67263493916
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1972,
+        "value": 77110721965
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1974,
+        "value": 128000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1976,
+        "value": 152000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1978,
+        "value": 186000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1980,
+        "value": 282000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1982,
+        "value": 358000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1984,
+        "value": 276000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1986,
+        "value": 261000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1988,
+        "value": 314000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1990,
+        "value": 375000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1992,
+        "value": 364000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1994,
+        "value": 325000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1996,
+        "value": 395000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 1998,
+        "value": 396000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2000,
+        "value": 424000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2002,
+        "value": 443000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2004,
+        "value": 693000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2006,
+        "value": 974000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2008,
+        "value": 1280000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2010,
+        "value": 1460000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2012,
+        "value": 1710000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2014,
+        "value": 1900000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2016,
+        "value": 1580000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2018,
+        "value": 1770000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2020,
+        "value": 1710000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2022,
+        "value": 2050000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1961,
+        "value": 32263804167
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1963,
+        "value": 39962028721
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1965,
+        "value": 43662665169
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1967,
+        "value": 46766192279
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1969,
+        "value": 57246081130
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1971,
+        "value": 68555667237
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1973,
+        "value": 99480296893
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1975,
+        "value": 141000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1977,
+        "value": 167000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1979,
+        "value": 222000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1981,
+        "value": 390000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1983,
+        "value": 315000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1985,
+        "value": 254000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1987,
+        "value": 297000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1989,
+        "value": 319000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1991,
+        "value": 393000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1993,
+        "value": 340000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1995,
+        "value": 377000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1997,
+        "value": 409000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 1999,
+        "value": 399000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2001,
+        "value": 407000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2003,
+        "value": 557000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2005,
+        "value": 822000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2007,
+        "value": 1130000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2009,
+        "value": 1230000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2011,
+        "value": 1650000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2013,
+        "value": 1820000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2015,
+        "value": 1690000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2017,
+        "value": 1700000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2019,
+        "value": 1820000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2021,
+        "value": 1930000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1960,
+        "value": 31038651925
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1962,
+        "value": 34924550100
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1964,
+        "value": 39238590135
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1966,
+        "value": 47114238411
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1968,
+        "value": 50124977708
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1970,
+        "value": 67263493916
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1972,
+        "value": 77110721965
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1974,
+        "value": 128000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1976,
+        "value": 152000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1978,
+        "value": 186000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1980,
+        "value": 282000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1982,
+        "value": 358000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1984,
+        "value": 276000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1986,
+        "value": 261000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1988,
+        "value": 314000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1990,
+        "value": 375000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1992,
+        "value": 364000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1994,
+        "value": 325000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1996,
+        "value": 395000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 1998,
+        "value": 396000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2000,
+        "value": 424000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2002,
+        "value": 443000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2004,
+        "value": 693000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2006,
+        "value": 974000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2008,
+        "value": 1280000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2010,
+        "value": 1460000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2012,
+        "value": 1710000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2014,
+        "value": 1900000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2016,
+        "value": 1580000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2018,
+        "value": 1770000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2020,
+        "value": 1710000000000
+    },
+    {
+        "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2022,
+        "value": 2050000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1960,
+        "value": 229000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1962,
+        "value": 223000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1964,
+        "value": 269000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1966,
+        "value": 332000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1968,
+        "value": 350000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1970,
+        "value": 431000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1972,
+        "value": 532000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1974,
+        "value": 869000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1976,
+        "value": 1020000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1978,
+        "value": 1260000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1980,
+        "value": 1720000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1982,
+        "value": 1790000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1984,
+        "value": 1800000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1986,
+        "value": 1860000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1988,
+        "value": 2190000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1990,
+        "value": 2760000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1992,
+        "value": 2790000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1994,
+        "value": 3350000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1996,
+        "value": 4080000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 1998,
+        "value": 4170000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2000,
+        "value": 4420000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2002,
+        "value": 4500000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2004,
+        "value": 6030000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2006,
+        "value": 8600000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2008,
+        "value": 13000000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2010,
+        "value": 15400000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2012,
+        "value": 19800000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2014,
+        "value": 21800000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2016,
+        "value": 20500000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2018,
+        "value": 24300000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2020,
+        "value": 23900000000000
+    },
+    {
+        "country_name": "Upper middle income",
+        "country_code": "UMC",
+        "year": 2022,
+        "value": 30100000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1960,
+        "value": 1380000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1962,
+        "value": 1550000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1964,
+        "value": 1830000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1966,
+        "value": 2160000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1968,
+        "value": 2480000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1970,
+        "value": 3000000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1972,
+        "value": 3820000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1974,
+        "value": 5370000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1976,
+        "value": 6500000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1978,
+        "value": 8690000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1980,
+        "value": 11300000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1982,
+        "value": 11600000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1984,
+        "value": 12300000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1986,
+        "value": 15300000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1988,
+        "value": 19400000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1990,
+        "value": 22900000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1992,
+        "value": 25500000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1994,
+        "value": 27900000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1996,
+        "value": 31700000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 1998,
+        "value": 31600000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2000,
+        "value": 33800000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2002,
+        "value": 34900000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2004,
+        "value": 44100000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2006,
+        "value": 51800000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2008,
+        "value": 64100000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2010,
+        "value": 66600000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2012,
+        "value": 75500000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2014,
+        "value": 79800000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2016,
+        "value": 76500000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2018,
+        "value": 86500000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2020,
+        "value": 85200000000000
+    },
+    {
+        "country_name": "World",
+        "country_code": "WLD",
+        "year": 2022,
+        "value": 101000000000000
+    }
+]
