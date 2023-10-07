@@ -2,23 +2,23 @@
 The GDP Data Explorer is a powerful data analysis tool designed to unlock insights from economic data in JSON format. Whether you're a researcher, analyst, or curious data enthusiast, this tool simplifies the process of exploring and visualizing GDP (Gross Domestic Product) data from various countries and years. 
 
 # What was learned
-*Programming Proficienc
-*Data Handling Library
-*Integration
-*Data Visualization
-*Web Development 
-*User Interface Design
-*Error Handling
-*Version Control
-*Documentation Skills
-*Testing Practices
-*Performance Optimization
-*Deployment and Hosting
-*Project Management 
-*Open Source Contribution 
-*Problem Solving
-*Continuous Learning
-*Portfolio Enhancement
+Programming Proficiency
+Data Handling Library
+Integration
+Data Visualization
+Web Development
+User Interface Design
+Error Handling
+Version Control
+Documentation Skills
+Testing Practices
+Performance Optimization
+Deployment and Hosting
+Project Management
+Open Source Contribution
+Problem Solving
+Continuous Learning
+Portfolio Enhancement
 
 # Content
 ├── GDP_Data/
@@ -33,9 +33,9 @@ The GDP Data Explorer is a powerful data analysis tool designed to unlock insigh
 │   ├── Figure_1.png
 │   ├── Figure_2.png
 └── manage.py
-***Jsonapp.py This file has the python code that filtered the json data
-***JsonData   This file has the original data, but the none countries filterd out
-***NonCountryData   This file has none countries data
+###Jsonapp.py This file has the python code that filtered the json data
+###JsonData   This file has the original data, but the none countries filterd out
+###NonCountryData   This file has none countries data
 
 # Installation
  1. Install dependencies from the requirements.txt file
