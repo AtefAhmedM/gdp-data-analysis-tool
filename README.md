@@ -46,3 +46,7 @@ The GDP Data Explorer is a powerful data analysis tool designed to unlock insigh
  5. Open a web browser and go to `http://localhost:8000/` to access the tool.
  6. Follow the on-screen instructions to filter and visualize GDP data.
 ## GDPcountrysearch.pythonanywhere.com
+![Screenshot (86)](https://github.com/AtefAhmedM/gdp-data-analysis-tool/assets/142015943/795b565e-8500-44c3-9751-bb2920767a86)
+![Screenshot (87)](https://github.com/AtefAhmedM/gdp-data-analysis-tool/assets/142015943/bddfdc2a-6074-49d0-afa3-a0cb7787c0de)
+
+
